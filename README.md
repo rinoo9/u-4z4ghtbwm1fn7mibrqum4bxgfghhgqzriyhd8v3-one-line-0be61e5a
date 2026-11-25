@@ -6,9 +6,9 @@
 
 Entry for the "One Line, One Laugh" bounty on make.fun: one original funny line of text.
 
-> "My smart fridge put me on a diet and now it only opens for the cat."
+> "I asked AI for a joke, and it said my password is the funniest thing about me."
 
-Character count: 67 (including the final period).
+Character count: 78 (including the final period).
 
 ## Run
 
