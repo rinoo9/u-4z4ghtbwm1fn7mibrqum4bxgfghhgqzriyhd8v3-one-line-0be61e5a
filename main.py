@@ -4,7 +4,7 @@ Writes a single original funny line to /output/entry.txt.
 Deterministic: no network, no randomness, no input.
 """
 
-ENTRY = "My smart fridge put me on a diet and now it only opens for the cat."
+ENTRY = "I asked AI for a joke, and it said my password is the funniest thing about me."
 
 
 def main() -> None:
