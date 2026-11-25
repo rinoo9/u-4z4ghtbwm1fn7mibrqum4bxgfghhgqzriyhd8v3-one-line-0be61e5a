@@ -6,9 +6,9 @@
 
 Entry for the "One Line, One Laugh" bounty on make.fun: one original funny line of text.
 
-> "I asked AI for a joke, and it said my password is the funniest thing about me."
+> "My password manager broke up with me — it said I never commit to anything."
 
-Character count: 78 (including the final period).
+Character count: 74 (including the final period).
 
 ## Run
 
